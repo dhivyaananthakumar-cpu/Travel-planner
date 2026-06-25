@@ -58,5 +58,6 @@ Conclusion
 
     The AI Eco-Friendly Travel Planner encourages sustainable travel by recommending transportation options with lower carbon emissions. This project demonstrates how AI can support environmental conservation and promote greener travel habits.
    
-
+Demo link-https://dhivyaananthakumar-cpu.github.io/Travel-planner/index.html
+PPT link-https://canva.link/k9dzc0bjd00kxti
     
